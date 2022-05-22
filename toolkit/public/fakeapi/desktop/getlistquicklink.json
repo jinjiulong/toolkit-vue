@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "/static/img/icon-quicklink.png",
+    "text": "home",
+    "target": "/app/home"
+  },
+  {
+    "icon": "/static/img/icon-quicklink.png",
+    "text": "about",
+    "target": "/app/about"
+  },
+  {
+    "icon": "/static/img/icon-quicklink.png",
+    "text": "hello",
+    "target": "/app/hello"
+  }
+]
